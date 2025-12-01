@@ -103,9 +103,6 @@ MIT License - see [LICENSE](./LICENSE) for details.
 - **Twitter:** [@WaveProtocol](https://twitter.com/Wave__io)
 - **Email:** maazweb3@gmail.com
 
-## Acknowledgments
-
-Built with support from the [Horizen Genesis Program](https://www.horizen.io/). Inspired by the privacy innovations of Tornado Cash and the compliance frameworks of traditional finance.
 
 ---
 
